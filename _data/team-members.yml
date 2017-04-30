@@ -2,19 +2,19 @@
 
 # You can add images for each staff member to the 'team' folder in 'images'.
 
-- name:  <u>Austin Folsom</u>
+- name: <u>Austin Folsom</u>
   role: Website
   img: https://romancobbler.github.io/images/team/austin.jpg
   description: "i did stuff like a website"
-- name: Alec Tilton
+- name: <u>Alec Tilton</u>
   role: otherstuff
   img: http://placehold.it/120x120
   description: "he does stuff"
-- name: Skyler Bolton
+- name: <u>Skyler Bolton</u>
   role: otherstuff
   img: http://placehold.it/120x120
   description: "morestuff"
-- name: Christian Hill
+- name: <u>Christian Hill</u>
   role: otherstuff
   img: http://placehold.it/120x120
   description: "even more stuff"
