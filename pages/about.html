@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-description: "add a brief summary of your organization here" # Optional
-introduction: "This is the About page for your site. Add your introduction here. You'll find a guide to JekyllOrg on the homepage." # Optional
+description: "Mending Soles, One Soul At a Time"
 permalink: /about/
 ---
 <!-- About page introduction -->
@@ -62,25 +61,7 @@ permalink: /about/
 </section><!-- End office locations map -->
 {% endif %}
 
-{% if site.email %}
-<!-- Contact form -->
-<section id="contact">
-    <h2>{{ site.title | prepend: 'Contact ' }}</h2>
-    <form action="//formspree.io/{{ site.email }}"
-    method="POST" class="formspree">
-      <input type="text" placeholder="your name" class="name" rows="1" required />
 
-      <input type="email" name="email" placeholder="your email" maxlength="36" pattern="[a-zA-Z0-9_\.\+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-\.]+" class="email" required />
-
-      <textarea name="message" placeholder="your message" rows="3" class="message"></textarea>
-      <input type="hidden" name="_subject" value="Source: {{ site.baseurl | prepend: site.url }} contact form submission" />
-      <button type="submit" class="send">ok, send it</button>
-
-      <input type="text" name="_gotcha" style="display:none" />
-      <input type="hidden" name="_next" value="/" />
-    </form>
-  </section><!-- End form -->
-{% endif %}
 
 {% include mapjs.html %}
 
