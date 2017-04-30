@@ -4,7 +4,7 @@
 
 - name:  Austin Folsom
   role: Website
-  img: austin.jpg
+  img: https://romancobbler.github.io/images/team/austin.jpg
   description: "i did stuff like a website"
 - name: Alec Tilton
   role: otherstuff
