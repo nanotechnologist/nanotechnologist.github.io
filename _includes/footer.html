@@ -6,7 +6,7 @@
     {% include social-profiles.html %}
     <div class="footer-col-wrapper">
       <nav class="footer-col footer-col-1">
-        {% assign columnLimit = site.data.nav-links.size | divided_by: 2 %}
+        {% assign columnLimit = site.data.nav-links.size | divided_by: 4 %}
         {% for link in site.data.nav-links %}
           {% if forloop.index <= columnLimit %}
           <a href="{{ link.url | prepend: site.baseurl }}" class="footer-nav footer-nav-left">{{ link.title }}</a>
