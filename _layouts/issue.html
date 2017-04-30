@@ -17,30 +17,3 @@ layout: default
     {{ content }}
   </div>
 </article>
-<!-- Related services -->
-{% if page.related %}
-<section id="related-sections">
-  <h2>Related Issues</h2>
-  <ul class="grid-container">
-  {% assign related = page.related %}
-    {% for issue in site.issues %}
-      {% if related contains issue.title %}
-      <a href="{{ issue.url | prepend: site.baseurl }}">
-        <li class="one-third col">
-          <div class="tn-container">
-            <img src="{{ '/images/featured/issues-tn' | append: '.jpg' | prepend: site.baseurl }}">
-            <div class="mask"></div>
-            <div class="text-box">
-              <h2 class="related-title">{{ issue.title }}</h2>
-              {% if issue.description %}
-              <p>{{ issue.description }}</p>
-              {% endif %}
-            </div>
-          </div>
-        </li>
-      </a>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</section>
-{% endif %}
