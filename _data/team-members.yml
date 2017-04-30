@@ -4,7 +4,7 @@
 
 - name:  Austin Folsom
   role: Website
-  img: images/team/austin.jpg
+  img: austin.jpg
   description: "i did stuff like a website"
 - name: Alec Tilton
   role: otherstuff
