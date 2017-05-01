@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Sample Post 13
+title: Welcome!
 published: true
 ---
 
