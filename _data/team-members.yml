@@ -8,13 +8,13 @@
   description: "i did stuff like a website"
 - name: <u>Alec Tilton</u>
   role: otherstuff
-  img: http://placehold.it/120x120
+  img: https://romancobbler.github.io/images/team/alec.jpg
   description: "he does stuff"
 - name: <u>Skyler Bolton</u>
   role: otherstuff
-  img: http://placehold.it/120x120
+  img: https://romancobbler.github.io/images/team/skyler.jpg
   description: "morestuff"
 - name: <u>Christian Hill</u>
   role: otherstuff
-  img: http://placehold.it/120x120
+  img: https://romancobbler.github.io/images/team/christian.jpg
   description: "even more stuff"
