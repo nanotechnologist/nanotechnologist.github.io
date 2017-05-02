@@ -1,5 +1,3 @@
-## The Story Behind the Cobbler
-
 Once upon a time, there was a child named the cobbler. The Cobbler had a humble upbringing, one of the common working romans. He grew up in a conclave near the eastern part of Sicily in 79 BC. since his birth he was an orphan. while he lived in the orphanage, his caregiver made him work - his job - repairing people's shoes.
 
 Day in, and day out, he worked and worked on repairing shoes, from the senator’s to the soldier’s. Through his labor he learned the stories of many men and the problems they faced. Over time, more and more senators would come to him to get their shoes repaired and mended for he had the most skilled hands.
