@@ -9,7 +9,7 @@
 - name: <u>Alec Tilton</u>
   role: Campaign Slogan and Campaign Signs
   img: https://romancobbler.github.io/images/team/alec.jpg
-  description: "Created the campaign slogan and signs"
+  description: "Created the campaign slogan and campaign signs"
 - name: <u>Skyler Bolton</u>
   role: Negative Ad Designer
   img: https://romancobbler.github.io/images/team/skyler.jpg
@@ -17,4 +17,4 @@
 - name: <u>Christian Hill</u>
   role: Speech Writer
   img: https://romancobbler.github.io/images/team/christian.jpg
-  description: "Created the story and speech behind the Cobbler"
+  description: "Created the story and speech behind the Cobbler's campaign"
