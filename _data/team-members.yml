@@ -3,18 +3,18 @@
 # You can add images for each staff member to the 'team' folder in 'images'.
 
 - name: <u>Austin Folsom</u>
-  role: Website
+  role: Social Media Campaigns
   img: https://romancobbler.github.io/images/team/austin.jpg
-  description: "i did stuff like a website"
+  description: "Created the Cobbler's website and social media, as well as some ad campaigns"
 - name: <u>Alec Tilton</u>
-  role: otherstuff
+  role: Campaign Slogan and Campaign Signs
   img: https://romancobbler.github.io/images/team/alec.jpg
-  description: "he does stuff"
+  description: "Created the campaign slogan and signs"
 - name: <u>Skyler Bolton</u>
-  role: otherstuff
+  role: Negative Ad Designer
   img: https://romancobbler.github.io/images/team/skyler.jpg
-  description: "morestuff"
+  description: "Created the negative ads for the capaign"
 - name: <u>Christian Hill</u>
-  role: otherstuff
+  role: Speech Writer
   img: https://romancobbler.github.io/images/team/christian.jpg
-  description: "even more stuff"
+  description: "Created the story and speech behind the Cobbler"
